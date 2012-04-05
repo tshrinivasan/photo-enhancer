@@ -16,7 +16,7 @@ It has python interface to automate all our desktop operations.
 
 Required Software:
 
-Ubuntu 12.04 and above
+Ubuntu 12.04 or above
 ldtp
 python-ldtp
 
