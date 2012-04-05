@@ -1,0 +1,42 @@
+photo-enhancer:
+==============
+
+gThumb is a nice image viewer available in GNU/Linux.
+It has an option to enhance the images.
+
+We have to open images one by one and enhance it.
+
+I wanted to automate this process for enhancing all the images in a folder.
+
+How to automate the GUI operations?
+There comes the LDTP. 
+Linux Desktop Testing Project  http://ldtp.freedesktop.org
+
+It has python interface to automate all our desktop operations.
+
+Required Software:
+
+Ubuntu 12.04 and above
+ldtp
+python-ldtp
+
+
+To get any help in LDTP,
+connect to their irc channel #ldtp in freenode.net for any queries.
+
+Mailing list : http://ldtp.freedesktop.org/wiki/Mailing_List
+
+
+Thanks for Nagappan Alagappan and pnayak for their guidance in the mailing list and irc.
+
+
+Regards,
+
+Shrinivasan
+tshrinivasan@gmail.com
+http://goinggnu.wordpress.com
+
+
+
+
+
